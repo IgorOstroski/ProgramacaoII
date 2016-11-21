@@ -1,0 +1,123 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.6 (/usr/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="/usr/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="jar:///usr/local/lib/python2.7/dist-packages/setuptools-18.1-py2.7.egg!/" />
+            <root type="simple" url="file:///usr/local/lib/python2.7/dist-packages/pip-7.1.0-py2.7.egg" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/.local/lib/python2.7/site-packages" />
+            <root type="simple" url="file:///usr/local/lib/python2.7/dist-packages" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages" />
+            <root type="simple" url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1247972723" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/djangogirls/myvenv" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/djangogirls/myvenv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/lib/python3.4" />
+            <root type="simple" url="file:///usr/lib/python3.4/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python3.4/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/djangogirls/myvenv/lib/python3.4/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-700633736" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/djangogirls" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/ProgramacaoII/myvenv" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/ProgramacaoII/myvenv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/lib/python3.4" />
+            <root type="simple" url="file:///usr/lib/python3.4/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python3.4/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/ProgramacaoII/myvenv/lib/python3.4/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-2093855184" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/ProgramacaoII" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.4.3 virtualenv at ~/TangoDjango/myvenv" />
+      <type value="Python SDK" />
+      <version value="Python 3.4.3" />
+      <homePath value="$USER_HOME$/TangoDjango/myvenv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///usr/lib/python3.4" />
+            <root type="simple" url="file:///usr/lib/python3.4/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python3.4/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/TangoDjango/myvenv/lib/python3.4/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/780274048" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/TangoDjango" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.6 virtualenv at ~/.virtualenvs/rango" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.6" />
+      <homePath value="$USER_HOME$/.virtualenvs/rango/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/rango/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/rango/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///usr/lib/python2.7" />
+            <root type="simple" url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" />
+            <root type="simple" url="file:///usr/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/rango/local/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.virtualenvs/rango/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.2/system/python_stubs/-1652866733" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
